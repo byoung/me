@@ -20,7 +20,7 @@ jobs:
             exit 1
           fi
 
-          API_URL="https://api.huggingface.co/spaces/${HF_SPACE_OWNER}/${HF_SPACE_NAME}/restart"
+          API_URL="https://api.huggingface.co/api/spaces/${HF_SPACE_OWNER}/${HF_SPACE_NAME}/restart"
 
           echo "Calling Hugging Face Spaces restart API for ${HF_SPACE_OWNER}/${HF_SPACE_NAME}"
           echo "URL: $API_URL"
