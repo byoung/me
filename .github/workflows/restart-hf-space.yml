@@ -20,12 +20,24 @@ jobs:
             exit 1
           fi
 
-          API_URL="https://api.huggingface.co/api/spaces/${HF_SPACE_OWNER}/${HF_SPACE_NAME}/restart"
+          API_URL="https://huggingface.co/api/spaces/${HF_SPACE_OWNER}/${HF_SPACE_NAME}/restart"
 
           echo "Calling Hugging Face Spaces restart API for ${HF_SPACE_OWNER}/${HF_SPACE_NAME}"
           echo "URL: $API_URL"
 
-          response=$(curl -s -w "\n%{http_code}" -X POST "$API_URL" -H "Authorization: Bearer $HF_TOKEN")
+          # Run curl with verbose output to debug
+          set +e  # Don't exit on curl error
+          response=$(curl -v -w "\n%{http_code}" -X POST "$API_URL" -H "Authorization: Bearer $HF_TOKEN" 2>&1)
+          curl_exit_code=$?
+          set -e
+          
+          if [ $curl_exit_code -ne 0 ]; then
+            echo "Curl failed with exit code: $curl_exit_code"
+            echo "Full curl output:"
+            echo "$response"
+            exit 1
+          fi
+          
           http_status=$(echo "$response" | tail -n1)
           body=$(echo "$response" | sed '$d')
 
