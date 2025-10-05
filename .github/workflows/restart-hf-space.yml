@@ -23,12 +23,20 @@ jobs:
           API_URL="https://api.huggingface.co/spaces/${HF_SPACE_OWNER}/${HF_SPACE_NAME}/restart"
 
           echo "Calling Hugging Face Spaces restart API for ${HF_SPACE_OWNER}/${HF_SPACE_NAME}"
+          echo "URL: $API_URL"
 
-          http_status=$(curl -s -o /dev/null -w "%{http_code}" -X POST "$API_URL" -H "Authorization: Bearer $HF_TOKEN")
+          response=$(curl -s -w "\n%{http_code}" -X POST "$API_URL" -H "Authorization: Bearer $HF_TOKEN")
+          http_status=$(echo "$response" | tail -n1)
+          body=$(echo "$response" | sed '$d')
+
+          echo "HTTP Status: $http_status"
+          if [ -n "$body" ]; then
+            echo "Response body: $body"
+          fi
 
           if [ "$http_status" -ge 200 ] && [ "$http_status" -lt 300 ]; then
-            echo "Restart request accepted (HTTP $http_status)"
+            echo "✓ Restart request accepted (HTTP $http_status)"
           else
-            echo "Failed to request restart (HTTP $http_status)" >&2
+            echo "✗ Failed to request restart (HTTP $http_status)" >&2
             exit 1
           fi
