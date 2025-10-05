@@ -6,10 +6,11 @@ A list of all the projects I've worked on as an architect or software engineer
 * GitLab Username: byoung-gl
 * Hugging Face Username: byoung-hf
 
+TBD -- need to expand on this section and experiment with how it impacts my [(me)](https://github.com/byoung/me) agentic self [(ai-me)](https://github.com/byoung/ai-me). 
 
 ## ai-me (personal project)
 
-A personal AI agent designed to emulate my communication style, knowledge, and reasoning. ai-me leverages Retrieval-Augmented Generation (RAG) to provide contextually relevant and accurate responses, drawing from a curated knowledge base of my writings, code, and professional experience. The project explores advanced prompt engineering, memory management, MCP tool chaining, and agentic behaviors to create a more authentic and useful digital representation of myself. Built with Python and modern LLM frameworks, ai-me serves as both a personal productivity tool and a demonstration of agentic AI design patterns.
+A personal AI agent designed to emulate my communication style, knowledge, and reasoning. [ai-me](https://github.com/byoung/ai-me) leverages Retrieval-Augmented Generation (RAG) to provide contextually relevant and accurate responses, drawing from a curated knowledge base of my writings, code, and professional experience [1](https://github.com/byoung/me) [2](https://github.com/Neosofia/corporate/tree/main/website). The project explores advanced prompt engineering, memory management, MCP tool chaining, and agentic behaviors to create a more authentic and useful digital representation of myself. Built with Python and modern LLM frameworks, ai-me serves as both a personal productivity tool and a demonstration of agentic AI design patterns.
 
 Future versions of the project will include: 
 * fine-tuned (FT) models that are trained on transcripts of educational videos I've watched to better reflect my knowledge
