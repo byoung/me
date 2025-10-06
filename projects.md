@@ -1,27 +1,27 @@
-# Benjamin Young's Software Architecture, Design and Engineering Projects
+# Benjamin Young — Software Architecture, Design, and Engineering Projects
 
-A list of all the projects I've worked on as an architect or software engineer
+A list of projects I've worked on as an architect and software engineer.
 
-* GitHub Username: byoung
-* GitLab Username: byoung-gl
-* Hugging Face Username: byoung-hf
+- GitHub: byoung
+- GitLab: byoung-gl
+- Hugging Face: byoung-hf
 
-TBD -- need to expand on this section and experiment with how it impacts my [(me)](https://github.com/byoung/me) agentic self [(ai-me)](https://github.com/byoung/ai-me). 
+TBD — expand this section and experiment with how it impacts my [(me)](https://github.com/byoung/me) agentic self [(ai-me)](https://github.com/byoung/ai-me).
 
-## ai-me (personal project)
+## ai-me (2025)
 
-A personal AI agent designed to emulate my communication style, knowledge, and reasoning. [ai-me](https://github.com/byoung/ai-me) leverages Retrieval-Augmented Generation (RAG) to provide contextually relevant and accurate responses, drawing from a curated knowledge base of my writings, code, and professional experience [1](https://github.com/byoung/me) [2](https://github.com/Neosofia/corporate/tree/main/website). The project explores advanced prompt engineering, memory management, MCP tool chaining, and agentic behaviors to create a more authentic and useful digital representation of myself. Built with Python and modern LLM frameworks, ai-me serves as both a personal productivity tool and a demonstration of agentic AI design patterns.
+A personal AI agent designed to emulate my communication style, knowledge, and reasoning. [ai-me](https://github.com/byoung/ai-me) leverages retrieval-augmented generation (RAG) to provide contextually relevant and accurate responses by drawing from a curated knowledge base of my writings, code, and professional experience [1](https://github.com/byoung/me) [2](https://github.com/Neosofia/corporate/tree/main/website). The project explores advanced prompt engineering, memory management, MCP tool chaining, and agentic behaviors to create a more authentic and useful digital representation of myself. Built with Python and modern LLM frameworks, ai-me serves as both a personal productivity tool and a demonstration of agentic AI design patterns.
 
-Future versions of the project will include: 
-* fine-tuned (FT) models that are trained on transcripts of educational videos I've watched to better reflect my knowledge
-* more MCP tools and optimizations for the existing GitHub researcher
-* optimized RAG dataset loading and chunking
-* a complete LangGraph implementation with LangSmith and LangPlatform integrations
-* MoA on Groq
+Future versions of the project will include:
+- Fine-tuned (FT) models trained on transcripts of educational videos I've watched to better reflect my knowledge
+- Additional MCP tools and optimizations for the existing GitHub researcher
+- Optimized RAG dataset loading and chunking
+- A complete LangGraph implementation with LangSmith and LangPlatform integrations
+- MoA on Groq
 
-GitHub Repo: https://github.com/byoung/ai-me
+GitHub repo: https://github.com/byoung/ai-me
 
-## Neosofia Corporate Website and Compliance Tools
+## Neosofia Corporate Website and Compliance Tools (2025)
 
 A monorepo containing the source code and infrastructure for Neosofia's corporate website and internal tools. The repository includes:
 
@@ -34,22 +34,19 @@ The repository is organized to support both public-facing content and internal o
 
 GitHub Repo: https://github.com/Neosofia/corporate
 
+## Sales Conversion Tool -- Private Neosofia Client (2025)
 
-## Vacation Recommendations -- Private Neosofia Client
+Architecture and design consultant for a data pipeline and ML model to predict sales conversions for a top-5 car manufacturer in Europe. Used Synapse SQL storage for staging Sales Force source data, Docker for containerization, and Microsoft Azure ML for ETL pipelines, Lead Scoring Random Forest Model management, and CI/CD.
+
+## Vacation Recommendations -- Private Neosofia Client (2024)
 
 Architecture and design consultant for an AI chat agent that makes travel recommendations for a top-5 travel agency in the US. Used OpenAI APIs and models on optimized prompts to provide users with easy access to quickly book recommendations on the site. Internal APIs provided the data needed to customize the agent and to prepare a link to a full itinerary that could be booked in one click.
 
-
-## Sales Conversion Tool -- Private Neosofia Client
-
-Architecture and design consultant for a data pipeline and ML model to predict sales conversions for a top-5 car manufacturer in Europe. Used Neo4j for graph storage, Docker for containerization, and Microsoft Azure for ETL pipelines, ML model management, and CI/CD.
-
-
-## Clinical Trial Data Management Platform -- Private Neosofia Client
+## Clinical Trial Data Management Platform -- Private Neosofia Client (2023-2024)
 
 Acting CTO for a CRO developing its QMS system, SOPs, and Azure data pipelines to provide services to clinical trial sponsors. Extensive use of Monday.com, GitHub, and DocuSign to establish operational workflows to handle processes relating to onboarding/offboarding, incident management, change management, asset management, employee training, BCDR, and SDLC. Policies and procedures ensured compliance with 21 CFR part 11 and ICH E6 (R2/R3).
 
-## Clinical Trial Fraud Detection -- Medidata
+## Clinical Trial Fraud Detection -- Medidata (2021-2023)
 
 Architecture, design, and implementation of a machine learning (ML) model, ETL, and visualization/notification system to detect fraud in the clinical trials process. Composed of about 20 subsystems, the product was acquired and required reverse engineering of the architecture and design to scale the system to handle COVID mega trials with 25,000+ patients. My contributions included:
 * ARC 42 architecture diagrams of current and future state of the project
@@ -67,11 +64,11 @@ Design and implementation of a MLOps framework for managing and predicting MedDR
 
 ## Housing Price Prediction -- Personal Project (2017)
 
-Kaggle competition to predict housing prices in Ames, Iowa using varied ML models.
+Kaggle competition to predict housing prices in Ames, Iowa using varied ML models Linear, RandomForest, etc. Used traditional ML techniquest such as EDA, normalization, scaling, impute missingness, feature engineering, one-hot-encoding, label encoding, cross-validation, hyperparameter tuning (grid search), model selection and model evaluation.
 
 ## Biomarker Analysis Tool -- Personal Project (2017)
 
-Seurat and t-SNE (R) analysis of 10x Genomics datasets to determine cancer growth in mouse cells.
+Seurat and t-SNE (R) analysis of 10x Genomics datasets to find cancer stem cells in mice tumors.
 
 ## Randomization and Trial Supply Management -- Medidata
 
