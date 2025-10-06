@@ -1,4 +1,4 @@
-# Benjamin Young — Software Architecture, Design, and Engineering Projects
+# My Software Architecture, Design, and Engineering Projects
 
 A list of projects I've worked on as an architect and software engineer.
 
