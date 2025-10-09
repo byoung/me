@@ -13,11 +13,13 @@ TBD — expand this section and experiment with how it impacts my [(me)](https:/
 A personal AI agent designed to emulate my communication style, knowledge, and reasoning. [ai-me](https://github.com/byoung/ai-me) leverages retrieval-augmented generation (RAG) to provide contextually relevant and accurate responses by drawing from a curated knowledge base of my writings, code, and professional experience [1](https://github.com/byoung/me) [2](https://github.com/Neosofia/corporate/tree/main/website). The project explores advanced prompt engineering, memory management, MCP tool chaining, and agentic behaviors to create a more authentic and useful digital representation of myself. Built with Python and modern LLM frameworks, ai-me serves as both a personal productivity tool and a demonstration of agentic AI design patterns.
 
 Future versions of the project will include:
+- A forkable version that relies on environment variables only
 - Fine-tuned (FT) models trained on transcripts of educational videos I've watched to better reflect my knowledge
-- Additional MCP tools and optimizations for the existing GitHub researcher
-- Optimized RAG dataset loading and chunking
+- Additional MCP tools and optimizations for the existing GitHub researcher. Move to dynamic MCP?
+- Optimized RAG dataset loading and agentic chunking
 - A complete LangGraph implementation with LangSmith and LangPlatform integrations
 - MoA on Groq
+- Additional data feeds -- LinkedIn for connections, posts, skills, etc.
 
 GitHub repo: https://github.com/byoung/ai-me
 
@@ -62,6 +64,10 @@ Architecture, design, and implementation of a machine learning (ML) model, ETL, 
 
 Design and implementation of a MLOps framework for managing and predicting MedDRA and WHODrug coding decisions.
 
+## Computer Vision for Medical Imaging
+
+
+
 ## Housing Price Prediction -- Personal Project (2017)
 
 Kaggle competition to predict housing prices in Ames, Iowa using varied ML models Linear, RandomForest, etc. Used traditional ML techniquest such as EDA, normalization, scaling, impute missingness, feature engineering, one-hot-encoding, label encoding, cross-validation, hyperparameter tuning (grid search), model selection and model evaluation.
@@ -72,7 +78,7 @@ Seurat and t-SNE (R) analysis of 10x Genomics datasets to find cancer stem cells
 
 ## Randomization and Trial Supply Management -- Medidata
 
-The world’s first fully configurable randomization and trial supply management system (RTSM). I personally contributed over 3,000 commits to a SIMT Rails application that became the company’s highest revenue-generating product after their flagship product, Rave. Launched in 2009, the product was at the forefront of technology and software development at the time, featuring:
+The world’s first fully configurable randomization and trial supply management system (RTSM). I personally contributed over 3,000 commits to a SIMT Rails application and led a team of 20+ engineers, testers and product managers. Balance was a 0-1 product and quickly became the company’s highest revenue-generating product after their flagship product, Rave. Launched in 2009, the product was at the forefront of technology and software development at the time, featuring:
 * TDD (RSpec) and BDD (Cucumber/Selenium) for fully automated testing
 * CI/CD pipeline automation to run tests and create a validation portal automatically with every merged pull request, ensuring the system was always in a "deployable" state
 * Rapid Application Development (RAD) despite regulatory requirements for independent peer review of 20,000+ pull requests
@@ -97,3 +103,17 @@ Originally implemented in Perl, I converted the entire LAMPerl stack to PHP.
 ## Clinical Trial Data Management Systems -- ReQuest Technologies / etrials
 
 My first assignment fresh out of college was to install Oracle 7.5 onto SCO Unix via one of the most convoluted TUIs I've ever seen in my life. This first project always makes me think of the expression "what doesn't kill you makes you stronger".
+
+
+
+## Ideas
+
+Ideas that I'll pretend I was the first person to think of ;)
+
+### TLDW;
+
+Too long didn't watch. An AI agent that takes video transcripts (YouTube) and the top n most liked comments to create a concise summary of the video and general reception of it.
+
+### Skynet
+
+An AI super hacker with access to tools like nmap, metasploit, google drive, github, etc. to find vulnerabilities in networks, systems, and source code. System is prompted to only ethically hack in order discover and report on vulnerabilities so that they may be patched. The :imp: version is trained to self-replicate and recursively improve itself so it can.......

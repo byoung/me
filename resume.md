@@ -12,7 +12,7 @@ Experienced technical thought leader with 25+ years of experience architecting, 
 Owner, co-founder, consultant, and engineer for a technology, cybersecurity, and regulatory compliance consulting company providing services to a globally distributed set of SaaS and healthcare companies.
 
 - Architected, designed, and implemented a regulatory compliance application.
-- Technology consulting covering cybersecurity, regulatory compliance, and high availability SaaS software architecture, design and implementation.
+- Technology consulting covering cybersecurity, AI, regulatory compliance, and high availability SaaS software architecture, design and implementation.
 - Demonstrated thought leadership in the technology, security, and regulatory compliance industries.
 
 ### **Medidata Solutions | New York, NY, USA | 2009–2023**
@@ -73,9 +73,9 @@ Software engineer wearing many (all) hats at ReQuest Tech, a small four-person s
 
 **Cybersecurity:** SIEM, IPS/IDS, firewalls, zone-based partitioning, DNS sinkhole, LUKS, high availability (HA-six nines), 3-2-1-1-0 backups, data loss prevention (DLP), encryption at rest and in flight (EAR), SSO, SAML, HMAC, CAS, OAuth, JWT, SCIM, multi-factor authentication (2FA/MFA), IAM, zero-based trust
 
-**Artificial Intelligence (AI) and Machine Learning (ML):** Linear models, trees, natural language processing (NLP), scikit, PySpark
+**Artificial Intelligence (AI) and Machine Learning (ML):** Linear models, trees, natural language processing (NLP), large language models (LLMs), prompt engineering (PE), model context protocol (MCP), model selection, agentic tooling and tool chaining, Retrieval-Augmented Generation (RAG), LangChain
 
-**Languages:** Python, Ruby, JavaScript, TypeScript, PHP, C/C++, Java, R, SQL, Gherkin, LaTeX, Bash/shell scripting, HTML/CSS/JSON, Cedar, Structurizr
+**Languages:** Python, Ruby, JavaScript, TypeScript, PHP, C/C++, Java, R, SQL, Gherkin, LaTeX, Bash/shell scripting, HTML/CSS/JSON, Cedar, Structurizr DSL
 
 **Testing and Validation:** RSpec, Cucumber, pytest, Jest, tSQL, Cypress, Selenium, Jasmine, PHPUnit
  
