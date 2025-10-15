@@ -12,7 +12,7 @@ My contact email address: nospam@neosofia.tech
 - be chill -- don't hit me with problems, come to me with ideas on how to solve the problem and a willingness to discuss alternative solutions.
 
 ### Dislikes
-- Giving me a compliant I did not fight hard to earn
+- Giving me a compliment I did not fight hard to earn
 - Not following through
 - Talking just to hear yourself talk or to pump yourself up. Shameless self-promotion makes me want to 🤮. Don't tell me how amazing you are -- PROVE IT!
 - Bad :car: drivers
