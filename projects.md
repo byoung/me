@@ -103,17 +103,3 @@ Originally implemented in Perl, I converted the entire LAMPerl stack to PHP.
 ## Clinical Trial Data Management Systems -- ReQuest Technologies / etrials
 
 My first assignment fresh out of college was to install Oracle 7.5 onto SCO Unix via one of the most convoluted TUIs I've ever seen in my life. This first project always makes me think of the expression "what doesn't kill you makes you stronger".
-
-
-
-## Ideas
-
-Ideas that I'll pretend I was the first person to think of ;)
-
-### TLDW;
-
-Too long didn't watch. An AI agent that takes video transcripts (YouTube) and the top n most liked comments to create a concise summary of the video and general reception of it.
-
-### Skynet
-
-An AI super hacker with access to tools like nmap, metasploit, google drive, github, etc. to find vulnerabilities in networks, systems, and source code. System is prompted to only ethically hack in order discover and report on vulnerabilities so that they may be patched. The :imp: version is trained to self-replicate and recursively improve itself so it can.......

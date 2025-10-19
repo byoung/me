@@ -1,96 +1,47 @@
-# Ben Young -- Technologist, Software Engineer, Leader
+# Ben Young – Vice President of Engineering
 
-**Software Architecture, Design, and Implementation | Transformational Leadership | Process Improvement | High-Performance Team Development | SDLC Automation**
+**Email:** [ben@youngamores.com](mailto:ben@youngamores.com) | **LinkedIn:** [benjamintyoung](https://linkedin.com/in/benjamintyoung) | **GitHub:** [byoung](https://github.com/byoung) | **Phone:** upon request
 
-Experienced technical thought leader with 25+ years of experience architecting, designing, and maintaining enterprise SaaS solutions. Skilled in agile methodologies, lean practices, customer care, 12-factor applications, IaaS, SOA, and software delivery automation. Combines technical expertise with strategic thinking to drive business value through technology. Known for delivering projects on time and within budget, and for establishing policies and procedures for scalable growth.  Committed to innovation, emerging technologies, cross-functional collaboration, and customer-centric practices.
+## PROFESSIONAL SUMMARY
 
-## CAREER HIGHLIGHTS
+CTO / VP of Engineering with 25+ years of experience scaling enterprise SaaS solutions and regulated health‑tech platforms. Built and led 100+ engineering orgs across 200+ repos, delivering $500M+ ARR and 10× engineering efficiency. Deep GxP/21 CFR Part 11 expertise, modern cloud‑native architectures, and AI/ML initiatives that accelerate delivery and reduce risk.
 
-### **Neosofia | New York, NY, USA and Madrid, Spain | 2023–present | CTO**
+## EXPERIENCE
 
-**Chief Technology Officer (CTO) | 2023–present**  
-Owner, co-founder, consultant, and engineer for a technology, cybersecurity, and regulatory compliance consulting company providing services to a globally distributed set of SaaS and healthcare companies.
+### Neosofia – Cybersecurity, AI, & Compliance Consulting (NYC, NY)
 
-- Architected, designed, and implemented a regulatory compliance application.
-- Technology consulting covering cybersecurity, AI, regulatory compliance, and high availability SaaS software architecture, design and implementation.
-- Demonstrated thought leadership in the technology, security, and regulatory compliance industries.
+#### Neosofia - CTO (2023-current)
+- **Acting CTO** for a CRO developing its quality management system (QMS) and Azure data pipelines to provide services to clinical trial sponsors. Extensive use of Monday.com, GitHub, and DocuSign to establish operational workflows that handle processes related to onboarding and off‑boarding, incident management, change management, asset management, employee training, business continuity and disaster recovery (BCDR), computer systems validation (CSV), and the software development lifecycle (SDLC). Ensured compliance with CFR 21 Part 11, GxP, ISO, GDPR, and ICH E6 (R2/R3).
+- **Delivered an AI‑powered** vacation‑recommendation system that provides personalized travel itineraries based on OpenAI APIs, prompt engineering (PE), and Python. Responsible for the architecture, design, and delivery of an initial prototype to a top‑five travel agency in the US.
 
-### **Medidata Solutions | New York, NY, USA | 2009–2023**
+### Medidata Solutions – Leadership & Operational Transformation (NYC, NY)
 
-Led a technology organization of 100+ software engineers and architects, responsible for Medidata’s clinical trial platform generating $500M+ in revenue across [multiple technologies](#skills-and-experience), frameworks, and 200+ source code repositories. The clinical platform manages more than half of the global clinical trials, supporting 4,000+ trials, 20,000+ clinical sites, and over 2M patients. The platform required six nines availability for critical functions such as authentication, authorization, and clinical trial processes, including the emergency unblinding of patient data.
+#### Medidata - VP of engineering (2013-2023)
 
-- Advised top 25 pharmaceutical companies, including Novartis, J&J, Roche, and Amgen, on the technical adoption of clinical trial data management and design systems.
-- Partnered with cross-functional groups to drive new and existing initiatives, ensuring continuous improvement and success across 20+ software development teams.
-- Reduced help desk ticket resolution times by 2.5x and prevented $1M+ in performance penalties by implementing critical incident and response processes.
-- Achieved a 98% customer satisfaction score and reduced tier 4 response times by 5x by establishing an enhanced problem management system.
-- Received Glassdoor’s “50 Best Places to Work” recognition by launching initiatives to improve employee engagement.
-- Pioneered and participated in the Medidata patent program, fostering innovation, securing IP, and driving employee recognition.
-- Launched a comprehensive new hire experience for onboarding developers.
-- Initiated learning initiatives such as brown bag lunches, global reveals, and an internal developer blog.
-- Improved customer satisfaction from 82% to 97% through the implementation and integration of incident management systems.
+- **Leadership of 100+ engineers:** Directed a global engineering organization of over one hundred developers and architects, overseeing 200+ repositories that powered a clinical‑trial platform serving 4,000+ trials, 20,000+ sites, and 2M+ patients. The total product suite delivered **$500M+** in ARR. Relentless focus on engineering team engagement and cross-functional collaboration led to our “50 Best Places to Work” award from Glassdoor.
 
-**Manager – Sr. Director, Engineering | 2009–2013**  
-Accountable for the implementation of several key clinical trial SaaS systems, both as a software engineer and manager of multiple teams. Led several process optimizations across the entire engineering organization.
-
-- Reduced software development cycle times from three months to two weeks by pioneering agile software development processes and implementing them across the organization.
-- Implemented full test automation, CI/CD processes, TDD, BDD best practices, and electronic code reviews, resulting in the organizations first product achieving a one-day code freeze to validation certificate timeline.
-- Acted as a subject-matter expert and product manager, guiding both the business and technical sides of the Randomization and Trial Supply Management (RTSM) system. The RTSM system was the first of its kind and generates an additional $30M a year in revenue for the company.
-- Collaborated with UX/UI teams to set a new standard for client experience on the platform.
-
-### **etrials Worldwide and ReQuest Technologies | Ithaca, NY, USA | 1997–2009**
-
-**Lead Software Engineer | 2004–2009**  
-Worked cross-functionally within a larger organization (100 employees) to scale product growth and increase adoption after etrials' acquisition of ReQuest Technologies.
-
-**Senior Software Engineer | 1997–2004**  
-Software engineer wearing many (all) hats at ReQuest Tech, a small four-person startup company.
-- Successfully integrated all operations of ReQuest Technologies into etrials within four months.
-- Administered the company's network, telephony, and servers, ensuring smooth business operations.
-- Architected and designed multiple high-availability (HA) SaaS applications.
-- Ensured compliance with industry regulations by authoring and maintaining SOPs.
-- Delivered exceptional customer service in multiple client-facing roles.
-
-## EDUCATION
-
-**SUNY Potsdam | Potsdam, NY, USA | 1996-2000** BA in Computer and Information Sciences, BA in Mathematics, Minor in Human Communications — Summa Cum Laude
-
-## PATENTS & PUBLICATIONS
-- [Distributed Randomization Supply Management in Clinical Trials Method](https://patents.google.com/patent/US20140229198A1/en)
-- [Method and system for maintaining data in a substantiated state](https://patents.google.com/patent/CA2916696A1/sv)
-- [Generalized multidimensional dynamic allocation method](https://pubmed.ncbi.nlm.nih.gov/22736449/)
-- [Neosofia Technology and Compliance Blog](https://neosofia.tech/blog/)
-
-
-## CONTACT INFORMATION
-
-**Email:** nospam@neosofia.tech | **Phone:** +1 315-867-5309 (real number given upon request)
+- **DevOps and MLOps Transformation:** Architected and designed the MLOps workflows that became the organizational standard. Sumo Logic, OTel, Zipkin, containerization, and dependency isolation enabled us to create an operationally consistent environment. Improved ETL pipeline performance by 2× and cut resource utilization/cost by 4× by using ops dashboards to identify inefficiencies and bottlenecks. The ETL-pipeline-powered ML models were used to detect fraud in the clinical-trial data-management systems and to de‑identify patient data in medical imaging scans.
 
 <div style="page-break-after: always;"></div>
 
-## SKILLS AND EXPERIENCE
+#### Medidata - Manager and Director of Engineering (2009-2013)
 
-**Cloud Platforms:** Amazon Web Services (AWS), Microsoft Azure, Google Cloud (GCP)
+- **0‑1 creation of a $30M+ ARR product:** Architected, designed, and implemented the world’s first fully configurable Randomization and Trial Supply Management (RTSM) system. Pioneered (in 2009) TDD (RSpec) and BDD (Cucumber/Selenium) for fully automated testing, CI/CD pipeline automation, and a programmatically generated validation portal that enables regulatory compliance and rapid feature delivery.
 
-**Cybersecurity:** SIEM, IPS/IDS, firewalls, zone-based partitioning, DNS sinkhole, LUKS, high availability (HA-six nines), 3-2-1-1-0 backups, data loss prevention (DLP), encryption at rest and in flight (EAR), SSO, SAML, HMAC, CAS, OAuth, JWT, SCIM, multi-factor authentication (2FA/MFA), IAM, zero-based trust
+- **10× Organizational Efficiency:** Organizational rollout of agile processes, CI/CD pipelines (Jenkins, GitHub Actions, GoCD), and fully integrated incident‑management frameworks (JIRA, PagerDuty, ZenDesk) that cut help‑desk ticket resolution time by **5×** and SDLC cycle times from three months to two weeks. These changes prevented **$1 M+** in SLA performance penalties and helped us achieve a same‑day code freeze to deployment (unheard of in the clinical trial data management industry).
 
-**Artificial Intelligence (AI) and Machine Learning (ML):** Linear models, trees, natural language processing (NLP), large language models (LLMs), prompt engineering (PE), model context protocol (MCP), model selection, agentic tooling and tool chaining, Retrieval-Augmented Generation (RAG), LangChain
+### ReQuest Technologies / eTrials – SaaS solution creator and maintainer (Ithaca, NY)
 
-**Languages:** Python, Ruby, JavaScript, TypeScript, PHP, C/C++, Java, R, SQL, Gherkin, LaTeX, Bash/shell scripting, HTML/CSS/JSON, Cedar, Structurizr DSL
+#### ReQuest / eTrials - Software Engineer and System Administrator (1997-2009)
 
-**Testing and Validation:** RSpec, Cucumber, pytest, Jest, tSQL, Cypress, Selenium, Jasmine, PHPUnit
- 
-**Operating Systems and Environments:** Unix (Ubuntu/RedHat/Debian), Proxmox, Docker, Kubernetes, UniFi/Ubiquiti, XCP-ng
+- **Built and maintained multiple 0‑1 SaaS products generating $20M+ in revenue** across the finance, healthcare, and education domains. Designed and built systems using Ruby on Rails, PHP, Perl, C/C++, and JavaScript, deploying on LAMP stacks with MySQL, PostgreSQL, and Oracle back‑ends.
+ - **Five‑9s operation:** Served as the lead system administrator for all company assets, including firewalls, databases, telephony, networking, and application servers running on Linux, Windows, and macOS.
 
-**Storage:** PostgreSQL, Oracle, MySQL, Redis, S3, RDS/Aurora, Snowflake
+### Personal Projects – Technologist, Engineer, Admin, and Tinkerer (1983-current)
+ - **My Agentic Self:** A personal AI agent designed to emulate my communication style, knowledge, and reasoning. [ai-me](https://github.com/byoung/ai-me) leverages retrieval-augmented generation (RAG) to provide contextually relevant and accurate responses by drawing from a curated knowledge base of my writings, code, and professional experience ([me](https://github.com/byoung/me)). The project explores advanced prompt engineering, memory management, MCP tool chaining, and agentic behaviors.
+ - **My Homelab:** A personal playground to explore all things technology. Proxmox, Graylog, Prometheus, GPU pass‑through, Ansible, Ubiquiti equipment, zone‑based networking, LUKS, and many other technologies are continuously experimented with. Exploring trends in zone‑based network partitioning, IPS/IDS, SIEM, IDP, sinkhole DNS, encryption, backup, and recovery. Selected IAC scripts for bootstrapping can be found [here](https://github.com/Neosofia/corporate/tree/main/os/proxmox)
 
-**Frameworks:** Ruby on Rails (RoR), React Native/Router, Angular, Django, PHP Cake, Shiny, Flask
 
-**Software Development, Delivery, and Operations:** Git, Subversion, Visual Studio Code, ViM, Emacs, Cursor, Terraform, GitHub Actions (GHA), Dependabot, GitHub Pages, GoCD, Jenkins, Capistrano, Ansible, Chef, Puppet, CircleCI, Grafana, Prometheus, AWS CloudFormation, Postman, Swagger, Azure Data Pipelines, ECS, EKS, EC2, Lambda, SQS, Ceph, C4 modeling, arc42
-
-**SaaS Application Implementation, Integration, and Administration:** JIRA, Monday, ZenDesk, Okta, Authentick, Sumologic, DocuSign, GitLab, GitHub, AWS, Azure, GCP, Codacy, CodeCov, Brakeman, PagerDuty, Splunk, Graylog, Artifactory, Backstage, Sonarqube, Nagios, New Relic, Tableau, Slack, Teams, Zoom, Bugzilla, Salesforce, Workday, Confluence, Notion, Canva, OpenAI/ChatGPT
-
-**Regulatory Frameworks and Standards:** CFR 21 Part 11, Good Clinical Practice (GCP), SOC, ISO, GDPR, GxP, ICH, KYC, standard operating procedures (SOPs), quality management system (QMS)
-
-**Technology Concepts:** 12-factor applications, infrastructure as a service (IaaS), service-oriented architecture (SOA), test automation, continuous integration/continuous deployment (CI/CD), test-driven development (TDD), behavior-driven development (BDD), validation cycles, scale/productivity, software development lifecycle (SDLC), blue-green deployments, software supply chain management and security, full-stack application development, machine learning operations (MLOps), DevOps, DevSecOps, SCM, GitOps, SLA, SLO, SLI, SRE, UX/UI, graceful degradation
-
-**Operational Management:** Revenue recognition, budget management, incident and problem management, customer satisfaction (CSAT), client audits, business development, technical training, talent acquisition
+## EDUCATION
+ - **SUNY Potsdam** (1996-2000) -- B.A. Computer & Information Sciences, B.A. Mathematics, Minor in Human Communications (Summa Cum Laude, 3.92/4.0 GPA)
+ - **Coursera** (2025) -- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/8G70SGV9HY6V).
